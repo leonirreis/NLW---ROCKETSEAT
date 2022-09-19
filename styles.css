@@ -11,9 +11,9 @@ ul {
 body {
     background-image: url(./assets/bg3.jpg);
     background-position: top center;
-    background-size: 100% auto;
+    background-size: 130% auto;
     background-repeat: no-repeat;
-    background-color: #121214;
+    /* background-color: hsl(239, 75%, 30%);*/
 }
 
 body * {
